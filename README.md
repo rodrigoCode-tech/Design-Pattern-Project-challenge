@@ -21,14 +21,14 @@ Esta é uma API de controle de estacionamento que fornece as operações básica
  
  
 # Como executar a aplicação
-1 - Clone este repositório para a sua máquina local
-2 - Certifique-se de ter o Java 11 ou superior instalado em seu sistema
-3 - Abra um terminal e navegue até o diretório raiz do projeto
-4 - Execute o seguinte comando para compilar e executar a aplicação:
+- 1 : Clone este repositório para a sua máquina local
+- 2 : Certifique-se de ter o Java 11 ou superior instalado em seu sistema
+- 3 : Abra um terminal e navegue até o diretório raiz do projeto
+- 4 : Execute o seguinte comando para compilar e executar a aplicação:
 
 ./mvnw spring-boot:run
 
-5 - Acesse a API através do seguinte endpoint:
+ - 5 : Acesse a API através do seguinte endpoint:
 
 http://localhost:8081/
 
